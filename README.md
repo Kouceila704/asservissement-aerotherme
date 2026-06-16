@@ -116,12 +116,4 @@ Validation sur le système réel : signaux de sortie `y(t)`, consigne `y*(t)` et
 
 ---
 
-## ▶️ Reproduire
-
-1. Ouvrir `src/TP6.m` sous Matlab et l'exécuter → synthèse du correcteur et tracés.
-2. Ouvrir `src/Boucle_fermee_sim.slx` pour la validation en simulation.
-3. Pour l'expérimentation : connecter la Raspberry Pi (Ethernet) et la carte AD/DA, puis lancer `src/Aerotherme.slx`.
-
----
-
 *Kousseila Fereka — Licence EEEA, Université de Caen Normandie*
