@@ -1,0 +1,17 @@
+# --- Fichiers generes par MATLAB / Simulink ---
+slprj/
+*_ert_rtw/
+*.slxc
+*.slx.r20*
+*.slx.original
+*.asv
+*.elf
+*.autosave
+*.mat
+codegen/
+sccprj/
+
+# --- OS ---
+Thumbs.db
+.DS_Store
+desktop.ini
